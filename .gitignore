@@ -14,5 +14,6 @@ venv/
 
 # Tool outputs / temporary frames
 frames/
+work/
 *.mp4
 *.mov
